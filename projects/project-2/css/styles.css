@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 255, 70);
+    margin-left: 20%;
+}
+
+p {
+    margin: auto;
+    font-size: 100px;
+    font-family: 'Impact', Times, serif;
+    color: rgb(255, 255, 45);
+}
+
+.highlightedtext {
+    color: rgb(255, 255, 85);
+}

@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    margin-right: 5px; 
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+main {background-color: rgb(161, 161, 161);
+    margin-left: 300px;
+
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+   
+}
+.intro {
+    color: rgb(0, 0, 0);
+    width: 50%;
+    }
+
+nav{
+    background-color: rgb(211, 211, 211);
+    border-bottom: 1px solid black;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+ol{
+    list-style: none;
+    color: black;
+    padding-right: 10px;
+}
